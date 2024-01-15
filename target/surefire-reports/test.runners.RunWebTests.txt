@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: test.runners.RunWebTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 368.438 s <<< FAILURE! - in test.runners.RunWebTests
+test.runners.RunWebTests.runScenario["Manage a token", "Manage tokens"](2)  Time elapsed: 163.036 s  <<< FAILURE!
+java.lang.RuntimeException: Failed to click element after 10 attempts
+

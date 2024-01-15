@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test.android.CreateWalletTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 87.27 s -- in test.android.CreateWalletTest
